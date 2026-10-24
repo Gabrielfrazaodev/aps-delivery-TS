@@ -6,6 +6,7 @@ Este repositório contém a suíte de testes automatizados e a implementação d
 
 ## 👥 Integrantes da Equipe
 * Gabriel da Silva Frazão - Matricula: 1-2025200046
+* Mateus Carauba Araújo - Matricula: 1-2025200014
 
 ---
 
